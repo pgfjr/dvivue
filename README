@@ -1,0 +1,29 @@
+DVIVue v. 1.0
+
+
+About
+=====
+
+This program is a DVI viewer. It uses dvipdfmx to convert a DVI file to PDF, thus allowing the text in the document to be searched or selected, unlike with conventional viewers.
+
+
+Compilation
+===========
+
+To compile the program, you need to install certain packages required by the WebView2 control used by DVIVue. Please follow the instruction in 'Step 2 - Install WebView2 SDK' substeps 2 and 3 here: https://docs.microsoft.com/en-us/microsoft-edge/webview2/gettingstarted/win32
+
+
+Copying
+=======
+
+This program is released under the GNU General Public License
+version 3 or newer. See the COPYING file included with this distribution or
+<http://www.gnu.org/licenses/>.
+
+	Copyright (C) 2020 Peter Frane Jr.
+
+
+Contact
+=======
+
+Please send any inquries to pfranejr@hotmail.com
